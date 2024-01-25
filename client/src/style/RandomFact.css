@@ -1,0 +1,95 @@
+body,
+input,
+button {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.container {
+  width: 100%;
+  max-width: 400px; 
+  margin: 20px auto; 
+  border: 2px solid black; 
+  text-align: center;
+  padding: 10px; 
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+input {
+  margin: 10px;
+  padding: 8px;
+  width: 80%;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px;
+  width: 80%;
+  background-color: rgb(101, 183, 238);
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+select {
+    margin: 10px;
+    padding: 8px;
+    width: 80%;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+
+  select::-ms-expand {
+    display: none;
+  }
+  
+  select {
+    appearance: none;
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>');
+    background-repeat: no-repeat;
+    background-position: right 8px top 50%;
+    background-size: 20px;
+  }
+  option {
+    background-color: #fff; 
+    color: #333; 
+  }
+  
+  select:focus {
+    border: 2px solid #4caf50;
+    outline: none;
+  }
+
+p {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #333;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+span {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  font-size: x-small;
+}
