@@ -1,10 +1,7 @@
-This is a simple React page, that get the facts from the "number" API from public-api of RapidAPI.
-
-https://raw.githubusercontent.com/Sanjaykumar-rengaraju/FactsPage_using_API/main/client/src/images/1.png
-
-https://raw.githubusercontent.com/Sanjaykumar-rengaraju/FactsPage_using_API/main/client/src/images/2.png
-
-https://raw.githubusercontent.com/Sanjaykumar-rengaraju/FactsPage_using_API/main/client/src/images/3.png
-
+This is a simple React App, that get the facts from the "numbers" API from public-api of RapidAPI.
+<img src="https://raw.githubusercontent.com/Sanjaykumar-rengaraju/FactsPage_using_API/main/client/src/images/1.png" width=100% height=100px/>
+<img src="https://raw.githubusercontent.com/Sanjaykumar-rengaraju/FactsPage_using_API/main/client/src/images/2.png" width=100% height=100px/>
+<img src="https://raw.githubusercontent.com/Sanjaykumar-rengaraju/FactsPage_using_API/main/client/src/images/3.png
+" width=100% height=100px/>
 
 API : https://rapidapi.com/divad12/api/numbers-1/
